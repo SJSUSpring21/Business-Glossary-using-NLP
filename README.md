@@ -10,7 +10,7 @@
 2. Apply ML into Fuzzing to improve software reliability
 
 # Detailed Explanation
-**Create domain specific business glossary using NLP**
+**Create domain specific business glossary using NLP Approved**
 >Introduction to the topic: 
 >>Vertical taxonomies such as an e-commerce taxonomy for retailers, telecom taxonomy for Telecom. Businesses will be able to bring their domain specific private documents and the NLP based AI system will create a well formed taxonomies ingestible into a common catalog.The project will eventually help a particular enterprise in accurate decision making with the comprehensive view of all the business terms . With the data being organised in one place, this project helps the enterprise to save a lot of time by automatically cataloging the data.
 
