@@ -1,13 +1,12 @@
-## Team21
+## Business Glossary using NLP
 # Members:
 * Paras Gandhi (Team Leader)
 * Het Brahmbhatt
 * Chinmay Sanjay Kamerkar
 * Poorna Srinivas Gutta
 
-# Group Project Ideas:
-1. Create domain specific business glossary using NLP
-2. Apply ML into Fuzzing to improve software reliability
+## Group Project Ideas:
+# Create domain specific business glossary using NLP
 
 # Detailed Explanation
 **Create domain specific business glossary using NLP Approved**
@@ -28,17 +27,3 @@ Correlation between assimilating new employees and strength of data catalogs.
 >Persona
 >>Majorly there will be two types of personas. One will be the end user who will use the system to acquire information from the business glossary. This user will use the glossary to understand business processes from upper management or lower management. This user can also use this tool for on-boarding process to learn about company functions
 The second type of user will use the tool but also submit the corpuses(documents) through which the tool will develop taxonomies. This user has the ability to update the corpuses and thus update the glossaries.
-
-**Apply ML into Fuzzing to improve software reliability**
-
->Introduction
->> Use ML to avoid testing every possible input by training on "interesting inputs" making testcases to find more suspect outputs.
-
->Abstract:
->>JSNice[http://www.jsnice.org/] is a brilliant example for STATISTICAL RENAMING, TYPE INFERENCE AND DEOBFUSCATION of a javascript code block. We can save a lot of computation by avoiding redundant test cases.
-
->Approach:
->>"To perform effectively, Fuzzing will require significant time." Setting a boundary value condition with random inputs is very problematic but now using deterministic algorithms based on ML we can solve this problem.
-
->Persona
->>Majorly Fuzzing is vastly used at enterprises for basic testing, the scope of this project will save lot of computation by avoiding redundant test cases.
