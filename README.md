@@ -23,3 +23,12 @@ Correlation between assimilating new employees and strength of data catalogs.
 >Persona
 >>Majorly there will be two types of personas. One will be the end user who will use the system to acquire information from the business glossary. This user will use the glossary to understand business processes from upper management or lower management. This user can also use this tool for on-boarding process to learn about company functions
 The second type of user will use the tool but also submit the corpuses(documents) through which the tool will develop taxonomies. This user has the ability to update the corpuses and thus update the glossaries.
+
+## RESULTS
+
+We developed an end-to-end application using Python, Flask and ReactJS for client side. The project repository can be found [here](https://github.com/hetbrahmbhatt/Business-Glossary-Using-NLP)
+
+## ARCHITECTURE
+
+
+
